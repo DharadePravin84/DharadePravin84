@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DharadePravin84
+- 👀 I’m interested in data science, machine learning, and artificial intelligence.
+- 🌱 I’m currently learning advanced deep learning techniques and natural language processing.
+- 💞️ I’m looking to collaborate on projects related to data analysis and predictive modeling.
+- 📫 You can reach me at dharadepravin84@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/pravin-dharade84/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy solving logical puzzles in my free time!
